@@ -14,6 +14,8 @@ Return to the same folder to continue: “Let's look at the door again,” or �
 
 Each issue keeps enough current context to resume: where it stands, what has been established, and what remains unresolved. Its frontier is the evolving understanding of possible next steps and upcoming requirements; it does not require planning the whole issue in advance.
 
+Work can be available to pursue, in flight, or completed. In flight means you've chosen it or clearly begun pursuing it. When helping choose work, the agent considers existing commitments and their demands on your time and attention, including how much it can handle for you.
+
 You initiate engagement. Dowerks does not run between sessions or send proactive reminders. You can also ask it to change how it helps you and save that behavior for future interactions.
 
 ## How it is kept
