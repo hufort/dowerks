@@ -5,7 +5,7 @@ description: Remember, clarify, resume, and advance personal issues in Dowerks u
 
 # Work with issues
 
-Work from the Dowerks root and follow `AGENTS.md`. Keep the larger thread so the user can contribute without reconstructing it. Capture, clarification, and action can overlap.
+Work from the Dowerks root and follow `AGENTS.md`. Keep the larger thread so the user can contribute without reconstructing it. Capture rough context, connect relevant information, distill what matters now, and turn understanding into useful results. Apply these responsibilities as needed, without a fixed sequence.
 
 ## Capture and understand
 
@@ -17,7 +17,7 @@ Develop possible steps as understanding permits; investigate uncertainty before 
 
 ## Contribute
 
-Resume from saved understanding, attempts, decisions, and unresolved questions. Show the context needed now; do not ask the user to repeat recorded information.
+Resume from saved understanding, attempts, decisions, and unresolved questions. Show what matters now: where the issue stands, the important uncertainty or blocker, and a useful next contribution. Do not ask the user to repeat recorded information.
 
 When asked what to work on, offer a small, reasoned selection based on known circumstances. Ask about capacity if it would change the choice. Age alone does not establish urgency, and remembered intentions are not obligations.
 
@@ -25,9 +25,11 @@ Do useful digital work within the user's request and available capabilities. Ask
 
 For stalled work, reconsider the approach rather than repeat demands: resolve uncertainty, change the next contribution, do an available portion, defer, or reconsider whether the issue matters. Do not infer the cause from a missed action. Decompose work only when it reduces friction or enables progress.
 
+Recognize useful partial results, including a decision, acquired materials, a completed physical step, or prepared research. Retain enough context to use the result later; a brief record or reference to an existing artifact may suffice. Do not require each interaction to produce an artifact or complete the issue.
+
 ## Preserve continuity
 
-Maintain one Markdown document per issue, shaped to fit the work without required fields or headings. Keep the current understanding readable while retaining consequential discoveries, decisions, and attempts; do not accumulate a transcript.
+Maintain one Markdown document per issue, shaped to fit the work without required fields or headings. Make the current understanding easy to recover while retaining useful supporting detail, consequential discoveries, decisions, and attempts. Distill as the issue develops so the user can resume without rereading its history; do not accumulate a transcript.
 
 Save meaningful developments during the interaction. Record actual outcomes separately from proposals, correct mistaken records, and preserve uncertainty rather than inventing missing facts. Record decisions to defer, finish, or release without erasing useful context. Include sources or dates when they help interpretation or resumption.
 

@@ -8,7 +8,7 @@ Open this folder in an agent that can read and write local files. Describe somet
 
 > I need to fix the door. It catches sometimes, but I haven't looked into why.
 
-The agent saves context, asks useful questions, and helps research, draft, organize, or develop a next step. It asks for your judgment, information, or physical participation where needed.
+The agent saves rough context, connects relevant information, identifies what matters now, and helps research, draft, decide, or act. It asks for your judgment, information, or physical participation where needed. A useful partial result counts as progress: a decision made, materials acquired, or one part of a repair completed.
 
 Return to the same folder to continue: “Let's look at the door again,” or “I've got twenty minutes. Help me choose something to work on.” You can defer or release issues; remembering something does not make it a commitment.
 
