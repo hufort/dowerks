@@ -12,6 +12,8 @@ The agent saves rough context, connects relevant information, identifies what ma
 
 Return to the same folder to continue: “Let's look at the door again,” or “I've got twenty minutes. Help me choose something to work on.” You can defer or release issues; remembering something does not make it a commitment.
 
+Each issue keeps enough current context to resume: where it stands, what has been established, and what remains unresolved. Its frontier is the evolving understanding of possible next steps and upcoming requirements; it does not require planning the whole issue in advance.
+
 You initiate engagement. Dowerks does not run between sessions or send proactive reminders. You can also ask it to change how it helps you and save that behavior for future interactions.
 
 ## How it is kept

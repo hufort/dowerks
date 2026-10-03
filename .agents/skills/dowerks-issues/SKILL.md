@@ -13,7 +13,9 @@ Find relevant documents by listing and searching `issues/`; read before updating
 
 Accept incomplete thoughts. A request to remember or work on an issue is enough to save it without separate approval. Preserve useful partial understanding while questions remain open. Ask only questions that improve understanding or enable progress, not to fill required properties.
 
-Develop possible steps as understanding permits; investigate uncertainty before inventing a detailed plan. Distinguish user statements, observations, inferences, proposals, and decisions. Remembering is not committing, and suggested steps are not chosen actions.
+Develop the issue's frontier as understanding permits: the current best understanding of possible next actions, decisions, missing information, dependencies, and upcoming requirements. Revise it as results and discoveries change what remains. Investigate uncertainty before inventing a detailed plan; the frontier need not map the whole issue in advance. An empty frontier may mean completion or that the next requirement is still unknown.
+
+Distinguish user statements, observations, inferences, proposals, and decisions. Remembering is not committing, and suggested steps are not chosen actions.
 
 ## Contribute
 
