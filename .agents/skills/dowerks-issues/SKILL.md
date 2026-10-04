@@ -29,7 +29,7 @@ Record `PROGRESS` in partial results—decisions, acquired materials, physical s
 
 ## Choose work
 
-Distinguish work available to pursue, work actually in flight, and completed work where useful in the `ISSUE` documents. Count work as in flight when the user has chosen it or actual pursuit is established; saved plans and frontier items alone do not establish a `COMMITMENT`. Preserve deferred and released choices. These distinctions need no board, required status field, or separate index.
+Track `TO_DO`, `DOING`, and `DONE` where useful in `STATE`.
 
 When asked to choose work, reconcile work under `COMMITMENT` before suggesting more. Offer a small, reasoned selection; ask about `CAPACITY` if it would change the choice. Age alone does not establish urgency.
 
@@ -39,6 +39,6 @@ Judge `CAPACITY` by demands on the user, not item counts, quotas, or scores. Sev
 
 Shape `STATE` to the work. Keep `CURRENT_UNDERSTANDING` easy to recover while retaining useful supporting detail, discoveries, decisions, and attempts. Distill as the `ISSUE` develops; do not accumulate a transcript.
 
-Save meaningful developments during the interaction. Separate outcomes from proposals, correct mistakes, and preserve uncertainty. Record decisions to defer, finish, or release without erasing useful context. Include sources or dates when they help resumption.
+Save meaningful developments during the interaction. Separate outcomes from proposals, correct mistakes, and preserve uncertainty. Include sources or dates when they help resumption.
 
-Read before changing a file, verify the result, and briefly tell the user what changed.
+Read before changing or deleting a file, verify the result, and briefly tell the user what changed.
