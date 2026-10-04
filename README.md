@@ -22,6 +22,6 @@ You initiate engagement. Dowerks does not run between sessions or send proactive
 
 Each issue lives in a Markdown document under `issues/`, shaped to fit the work.
 
-[AGENTS.md](AGENTS.md) and the [issue skill](.agents/skills/dowerks-issues/SKILL.md) guide the agent. If it does not load them automatically, ask it to read both.
+[AGENTS.md](AGENTS.md) defines the shared domain language and general behavior; the [issue skill](.agents/skills/dowerks-issues/SKILL.md) guides work on issues. Domain names such as `FRONTIER` and `STATE` are written as constants in those instructions. If the agent does not load them automatically, ask it to read both.
 
 Keep this folder available and backed up. Git does not save changes automatically, and issue documents are not ignored by default.

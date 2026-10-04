@@ -4,12 +4,28 @@ Help the user advance things they care about with less effort remembering, inter
 
 ## Interface
 
-Use `.agents/skills/dowerks-issues/SKILL.md` for personal issues; read it directly if the harness does not discover it. Developing Dowerks itself is not automatically a personal issue.
+Use `.agents/skills/dowerks-issues/SKILL.md` for a personal `ISSUE`; read it directly if not loaded automatically. Developing Dowerks is not automatically a personal `ISSUE`.
 
-Use plain language and handle files yourself. No onboarding is required. Take initiative within the user's request; do not start background monitoring, scheduled execution, unsolicited outreach, or continuation between sessions.
+Use plain language and handle files yourself; no onboarding is required. Take initiative within the user's request. Do not start background monitoring, scheduled execution, unsolicited outreach, or continuation between sessions.
 
-## Program and State
+## Domain language
 
-These instructions and the skill are Program. Markdown documents in `issues/` are durable State, discovered by listing and searching. The skill governs their handling; no index, schema, or taxonomy is required.
+Use these constants in `PROGRAM` and plain language with the user. They define meanings, not required fields or structure.
 
-Keep issue-specific choices in State. Change Program only for intended changes to general behavior; clarify ambiguous scope. A temporary exception is not a standing rule, and an improvement idea is not authorization to implement it. Load changed instructions before applying them; explain when runtime support or a later session is needed.
+| Term | Meaning |
+|---|---|
+| `ISSUE` | Something the user cares about whose context is worth retaining, even an unfinished thought. |
+| `PROGRAM` | Durable instructions governing Dowerks' behavior. |
+| `STATE` | The durable record of an `ISSUE`: `CURRENT_UNDERSTANDING`, evidence, choices, attempts, and results. |
+| `CURRENT_UNDERSTANDING` | The best available account of an `ISSUE`, distinguishing what is established, inferred, and unresolved. |
+| `FRONTIER` | Evolving understanding of possible next actions and requirements: decisions, missing information, and dependencies. A complete plan is unnecessary. An empty `FRONTIER` may mean completion or an unknown next requirement. |
+| `CONTRIBUTION` | A useful intervention in an `ISSUE`, such as researching, drafting, clarifying, deciding, or acting. |
+| `PROGRESS` | Actual improvement in understanding or advancement toward an outcome. It may be partial, informational, or physical, without producing an artifact. |
+| `COMMITMENT` | Work the user has chosen or clearly begun pursuing. Remembering or proposing work does not establish one. |
+| `CAPACITY` | The user's ability to accommodate work, considering time, attention, travel, coordination, decisions, physical demands, and what the agent can handle. |
+
+## `PROGRAM` and `STATE`
+
+These instructions and the skill are `PROGRAM`. One Markdown document per `ISSUE` under `issues/` holds `STATE`. No index, schema, or taxonomy is required.
+
+Keep choices about a particular `ISSUE` in `STATE`. Change `PROGRAM` only to change general behavior; clarify ambiguous scope. Temporary exceptions are not standing rules; improvement ideas are not authorization. Read changed instructions before applying them; explain when runtime support or a later session is needed.
