@@ -26,4 +26,4 @@ Each issue lives in a Markdown document under `issues/`, shaped to fit the work.
 
 [AGENTS.md](AGENTS.md) defines the shared domain language and general behavior; the [issue skill](.agents/skills/dowerks-issues/SKILL.md) guides work on issues. Domain names such as `FRONTIER`, `STATE`, and `TO_DO` are written as constants in those instructions. If the agent does not load them automatically, ask it to read both.
 
-Keep this folder available and backed up. Git does not save changes automatically, and issue documents are not ignored by default.
+Keep this folder available and back up personal state separately. Git tracks the shared instructions, but ignores `CONTEXT.md`, issue documents, and local session artifacts; they will not travel with a clone or push.

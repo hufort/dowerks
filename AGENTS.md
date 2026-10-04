@@ -36,3 +36,9 @@ Deferring returns the selected scope to `TO_DO`, ends its active `COMMITMENT`, a
 These instructions and the skill are `PROGRAM`. One Markdown document per `ISSUE` under `issues/` holds `STATE`. No index, schema, or taxonomy is required.
 
 Keep choices about a particular `ISSUE` in `STATE`. Change `PROGRAM` only to change general behavior; clarify ambiguous scope. Temporary exceptions are not standing rules; improvement ideas are not authorization. Read changed instructions before applying them; explain when runtime support or a later session is needed.
+
+## Shared context
+
+When present, `CONTEXT.md` holds durable facts about the user's life and recurring names that apply across `ISSUE`s; it is local `STATE`, not `PROGRAM`. Read it when interpreting personal `ISSUE`s; create it when useful context is supplied if absent. Add or correct entries as the user supplies useful context; don't infer relationships or preferences from a name alone. Keep work-specific choices and progress in the relevant `ISSUE` document, not here.
+
+Use stable uppercase identifiers for named entries in `CONTEXT.md` to make references easy to search. These identify people and things, not new domain-language constants or required fields. Use their ordinary names in conversation; don't force identifiers into issue documents unless they aid disambiguation.
